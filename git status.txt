@@ -1,0 +1,9 @@
+git status
+
+git add .
+
+git commit -m "whatever you want"
+
+git push 
+
+file:///C:/Users/momin/OneDrive/Desktop/DUX-A3/DUX-A3/index.html
