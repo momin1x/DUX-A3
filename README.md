@@ -44,7 +44,7 @@ https://wonderful-pastelito-04d1db.netlify.app/
 - Product images sourced from recipe blogs and cake stores.
 - Placeholder images can be replaced with local store items.
 
-## ⚙️ Development Process
+## Development Process
 
 ### Features
 
